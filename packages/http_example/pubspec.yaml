@@ -1,0 +1,10 @@
+name: example
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.3.3
+
+dependencies:
+  # intentionally out of date
+  http: ^1.0.0
